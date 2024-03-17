@@ -3,7 +3,7 @@
 # dependencies
 node_modules/
 #config
-/api/config.yaml
+config.yaml
 
 
 # Expo
