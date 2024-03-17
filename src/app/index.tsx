@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
 import FoodListItem from '../components/FoodListItem';
-
+/*expo client:install:ios */
 
 export default function App() {
   return (
